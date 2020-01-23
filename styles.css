@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+header {
+    padding: 1em;
+    background-color: green;
+}
+header img {
+    width: 3em;
+}
+
+header ul {
+    margin-top: 1em;
+    float: right;
+    list-style: none;
+}
+
+header ul li {
+    display: inline;
+    padding: 1em;
+    color:white;
+}
+
+header ul li:hover {
+    background-color: blue;
+}
