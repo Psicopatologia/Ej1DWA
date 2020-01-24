@@ -23,8 +23,6 @@ header ul li {
 
 header ul li:hover {
     background-color: blue;
-<<<<<<< HEAD
-=======
 }
 
 footer {
@@ -42,5 +40,4 @@ footer img {
 
 footer span {
     color: white;
->>>>>>> origin/footer
 }
