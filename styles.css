@@ -23,4 +23,24 @@ header ul li {
 
 header ul li:hover {
     background-color: blue;
+<<<<<<< HEAD
+=======
+}
+
+footer {
+    background-color: violet;
+    max-width: 100%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+footer img {
+    width: 3em;
+    padding: .5em .5em 0 .5em;
+}
+
+footer span {
+    color: white;
+>>>>>>> origin/footer
 }
